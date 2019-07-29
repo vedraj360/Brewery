@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Brewery</string>
+    <string name="sort_by">Sort By</string>
+    <string name="alcohol_level_lower_to_higher">Alcohol Level -- Lower to Higher</string>
+    <string name="alcohol_level_higher_to_lower">Alcohol Level -- Higher to Lower</string>
+    <string name="alcohol_level_1">Alcohol Level: 1</string>
+    <string name="american_ipa">American IPA</string>
+    <string name="rod_bender_red">Rod Bender Red</string>
+    <string name="show_image">show image</string>
+</resources>
