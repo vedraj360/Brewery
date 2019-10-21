@@ -1,5 +1,7 @@
 # Brewery
-Simple Android App for fetching Data from API and Performing some fucnction.
+Simple Android App for fetching Data from API and Performing some function.
+Nice User Interface and Structure.
+
 
 Some ScreenShots
 
